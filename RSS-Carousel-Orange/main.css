@@ -1,0 +1,360 @@
+h1 {
+    font-family: "Merriweather", "Times New Roman", serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#logo {
+    padding-left: 5%;
+}
+
+#content-box {
+    max-width: 100%;
+    max-height: 100%;
+    height: 80vh;
+    padding 10px;
+    padding-left: 40px;
+}
+
+#content {
+    position: relative;
+    margin: 0 auto;
+    transform: translateY(20%);
+}
+
+#rss-feed0 {
+    float: left;
+    width: 50%;
+    max-height: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+}
+
+#rss-feed1 {
+    float: left;
+    width: 50%;
+    max-height: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+}
+
+#rss-feed2 {
+    float: left;
+    width: 50%;
+    max-height: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+}
+
+#rss-feed3 {
+    float: left;
+    width: 50%;
+    max-height: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+}
+
+#rss-feed4 {
+    float: left;
+    width: 50%;
+    max-height: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+}
+
+#rss-feed5 {
+    float: left;
+    width: 50%;
+    max-height: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+}
+
+#rss-feed6 {
+    float: left;
+    width: 50%;
+    max-height: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+}
+
+#rss-feed7 {
+    float: left;
+    width: 50%;
+    max-height: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+}
+
+#rss-feed8 {
+    float: left;
+    width: 50%;
+    max-height: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+}
+
+#rss-feed9 {
+    float: left;
+    width: 50%;
+    max-height: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+}
+
+#img-box0 {
+    float: right;
+    max-width: 100%;
+    max-height: 100%;
+    padding-right: 5%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: relative;
+    transform: translateY(20%)
+}
+
+#img-box1 {
+    float: right;
+    max-width: 100%;
+    max-height: 100%;
+    padding-right: 5%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: relative;
+    transform: translateY(20%)
+}
+
+#img-box2 {
+    float: right;
+    max-width: 100%;
+    max-height: 100%;
+    padding-right: 10%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: relative;
+    transform: translateY(20%)
+}
+
+#img-box3 {
+    float: right;
+    max-width: 100%;
+    max-height: 100%;
+    padding-right: 5%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: relative;
+    transform: translateY(20%)
+}
+
+#img-box4 {
+    float: right;
+    max-width: 100%;
+    max-height: 100%;
+    padding-right: 5%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: relative;
+    transform: translateY(20%)
+}
+
+#img-box5 {
+    float: right;
+    max-width: 100%;
+    max-height: 100%;
+    padding-right: 5%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: relative;
+    transform: translateY(20%)
+}
+
+#img-box6 {
+    float: right;
+    max-width: 100%;
+    max-height: 100%;
+    padding-right: 5%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: relative;
+    transform: translateY(20%)
+}
+
+#img-box7 {
+    float: right;
+    max-width: 100%;
+    max-height: 100%;
+    padding-right: 5%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: relative;
+    transform: translateY(20%)
+}
+
+#img-box8 {
+    float: right;
+    max-width: 100%;
+    max-height: 100%;
+    padding-right: 5%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: relative;
+    transform: translateY(20%)
+}
+
+#img-box9 {
+    float: right;
+    max-width: 100%;
+    max-height: 100%;
+    padding-right: 5%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: relative;
+    transform: translateY(20%)
+}
+
+
+#name {
+    transform: translatex(-100%);
+    color: white;
+}
+
+#main {
+    min-height: 100vh;
+    background-color: rgba(253, 184, 19, .2);
+}
+
+#logoAndTitle {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    max-width: 100%;
+    max-height: 80%;
+    padding-top: 40px;
+    padding: 10px;
+    background-color: black;
+}
+
+#carouselIndicators {
+    min-height: 80vh;
+}
+
+.background {
+    background: black;
+    background-blend-mode: darken;
+    background-size: cover;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel .carousel-indicators li {
+    background-color: lightgray;
+    border-color: black;
+    width: 20px;
+    height: 0px;
+    border-radius: 100%;
+}
+
+.carousel-indicator {
+    position: relative;
+    bottom: -50px;
+ }
+
+.carousel .carousel-indicators li.active {
+    background-color: black;
+}
+
+.firstsection {
+    background-color: white;
+    height: 100%;
+}
+
+.box-main {
+    display: block;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+    max-width: 80%;
+    margin: auto;
+    height: 100%;
+}
+
+.name-section {
+    width: 100%;
+    flex-direction: row;
+}
+
+.firsthalf {
+    max-height: 100%;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.section {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 90%;
+    margin: auto;
+}
+
+.center {
+    text-align: center;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+.text-footer {
+    text-align: center;
+    padding: 30px 0;
+    font-family: 'Ubuntu', sans-serif;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+html, body {
+    min-height: 100%;
+    overflow: auto;
+    margin: 0;
+}
+
+.fade-in { 
+    animation: fadeIn 3s; 
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
